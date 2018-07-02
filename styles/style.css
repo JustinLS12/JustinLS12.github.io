@@ -1,0 +1,15 @@
+﻿body {
+    color: blue;
+}
+h1{
+    color:red;
+}
+p{
+    color:purple;
+}
+.food{
+    text-decoration: underline;
+}
+.family{
+    font-weight: bold;
+}
