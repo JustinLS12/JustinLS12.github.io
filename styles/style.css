@@ -1,5 +1,5 @@
 ﻿body{
-    color: blue;background-color: red;
+    color:gray;background-color:whitesmoke;
 }
 div{
     display: inline;
@@ -17,6 +17,8 @@ h1{
 img{
     height: 100px;
     width: 100px;
+    display: block;
+    margin: 0 auto;
 }
 .food{
     text-decoration: underline;
