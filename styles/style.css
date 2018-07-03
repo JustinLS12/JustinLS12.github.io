@@ -1,8 +1,5 @@
 ﻿body {
-    color: blue;
-}
-h1{
-    color:red;
+    color: blue;background-color: red;
 }
 p{
     color:purple;
@@ -12,4 +9,13 @@ p{
 }
 .family{
     font-weight: bold;
+}
+.thing{
+    color:orange;
+}
+.something{
+    color:yellow;
+}
+.what{
+    color:pink;
 }
