@@ -1,8 +1,17 @@
-﻿body {
+﻿body{
     color: blue;background-color: red;
+}
+div{
+    display: inline;
+}
+span{
+    display: block;
 }
 p{
     color:purple;
+}
+img{
+    height:100px; width:100px;
 }
 .food{
     text-decoration: underline;
