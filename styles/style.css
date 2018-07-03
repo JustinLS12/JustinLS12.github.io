@@ -9,9 +9,13 @@ span{
 }
 p{
     color:purple;
+    text-align: center;
+}
+h1{
+    text-align: center;
 }
 img{
-    height: 100px; 
+    height: 100px;
     width: 100px;
 }
 .food{
@@ -50,3 +54,4 @@ img{
 .violet{
     color:violet;
 }
+
